@@ -1,0 +1,10 @@
+D:\VisualStudio\College\C#\Forms\PractWork9\PractWork9\bin\Debug\PractWork9.exe.config
+D:\VisualStudio\College\C#\Forms\PractWork9\PractWork9\bin\Debug\PractWork9.exe
+D:\VisualStudio\College\C#\Forms\PractWork9\PractWork9\bin\Debug\PractWork9.pdb
+D:\VisualStudio\College\C#\Forms\PractWork9\PractWork9\obj\Debug\PractWork9.csprojAssemblyReference.cache
+D:\VisualStudio\College\C#\Forms\PractWork9\PractWork9\obj\Debug\PractWork9.Form1.resources
+D:\VisualStudio\College\C#\Forms\PractWork9\PractWork9\obj\Debug\PractWork9.Properties.Resources.resources
+D:\VisualStudio\College\C#\Forms\PractWork9\PractWork9\obj\Debug\PractWork9.csproj.GenerateResource.cache
+D:\VisualStudio\College\C#\Forms\PractWork9\PractWork9\obj\Debug\PractWork9.csproj.CoreCompileInputs.cache
+D:\VisualStudio\College\C#\Forms\PractWork9\PractWork9\obj\Debug\PractWork9.exe
+D:\VisualStudio\College\C#\Forms\PractWork9\PractWork9\obj\Debug\PractWork9.pdb
